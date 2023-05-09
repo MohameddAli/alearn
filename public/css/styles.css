@@ -1,0 +1,17 @@
+.square {
+    border-radius: 0px;
+}
+
+.jumbotron {
+    background-image: linear-gradient(to right, #007bff, #000);
+    color: white;
+}
+a {
+    text-decoration: none;
+  }
+.end-00 {
+    float: right;
+}
+.nav-link a {
+    color: white!important;
+}
